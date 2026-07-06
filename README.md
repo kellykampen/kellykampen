@@ -22,6 +22,10 @@ Then I learned to build it. Turns out decades of being the non-developer in the 
 
 AI-native solo dev. `TypeScript` · `Next.js` · `React` · `Convex` · `Turborepo` · `Tailwind` — with AI tooling as a genuine force multiplier, not a novelty.
 
+### 📦 Open source
+
+- **[agent-skills](https://github.com/kellykampen/agent-skills)** — a growing collection of [Claude Code](https://claude.com/claude-code) agent skills: multi-agent orchestration, code review, and workflow automation. `npx skills add kellykampen/agent-skills`
+
 ### 🤝 Find me
 
 - 🌐 **[kellyk.dev](https://kellyk.dev)** — the full story
