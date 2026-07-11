@@ -25,6 +25,8 @@ AI-native solo dev. `TypeScript` · `Next.js` · `React` · `Convex` · `Turbore
 ### 📦 Open source
 
 - **[agent-skills](https://github.com/kellykampen/agent-skills)** — a growing collection of [Claude Code](https://claude.com/claude-code) agent skills: multi-agent orchestration, code review, and workflow automation. `npx skills add kellykampen/agent-skills`
+- **[Finch](https://github.com/kellykampen/finch)** — a Twitter/X CLI for humans and agents: official X API v2, BYOK OAuth, deterministic JSON output, and a bundled MCP server.
+- **[pi-fleet](https://github.com/kellykampen/pi-fleet)** — restricted, single-purpose Pi coding-agent seats with model defaults, tool allowlists, and conductor/project-lead workflows for safer parallel agent work.
 
 ### 🤝 Find me
 
